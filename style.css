@@ -1281,7 +1281,7 @@ body * {
         height: 367px;
     }
 }
-@media (min-width: 1300px) {
+/*@media (min-width: 1300px) {
     .video-box {
         display: none;
     }
@@ -1313,4 +1313,4 @@ body * {
         display: none;
     }
 
-} 
+} */
